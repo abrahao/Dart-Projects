@@ -1,4 +1,4 @@
-import 'package:meu_app_oo/classes/Pessoa.dart';
+import 'package:meu_app_oo/classes/Pessoa_Abstract.dart';
 
 // Herança
 class PessoaJuridica extends Pessoa {
